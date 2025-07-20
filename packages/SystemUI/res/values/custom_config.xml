@@ -79,4 +79,7 @@
 
     <!-- Allow devices override audio panel location to the left side -->
     <bool name="config_audioPanelOnLeftSide">false</bool>
+
+    <!-- Default for LineageSettings.Secure.QS_SHOW_BRIGHTNESS_SLIDER -->
+    <bool name="def_qs_show_brightness_slider">true</bool>
 </resources>
